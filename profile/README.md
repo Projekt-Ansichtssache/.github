@@ -16,4 +16,4 @@ Source code is available on GitHub.
 
 ---
 
-<sub>Developed by students of [Gymnasium Oesede](https://www.gymnasium-oesede.de/).</sub>
+<sub>Developed by students of Gymnasium Oesede.</sub>
