@@ -6,8 +6,10 @@ Projekt Ansichtssache is a student project focused on digital accessibility. Our
 
 ## Projects
 
-- [Accessibility Widget](https://github.com/Projekt-Ansichtssache/accessibility-widget) – A customizable accessibility widget for websites.
-- [Accessibility Widget Preview Website](https://github.com/Projekt-Ansichtssache/accessibility-widget-preview) - Preview and showcase website for our Accessibility Widget.
+- Accessibility Widget: [GitHub](https://github.com/Projekt-Ansichtssache/accessibility-widget)
+- Accessibility Widget Preview: [Preview Website](https://projekt-ansichtssache.github.io/accessibility-widget-preview/), [GitHub](https://github.com/Projekt-Ansichtssache/accessibility-widget-preview)
+- Accessibility Widget Extension: [GitHub](https://github.com/Projekt-Ansichtssache/accessibility-widget-extension)
+- Projekt Ansichtssache Website: [Website](https://projekt-ansichtssache.github.io), [GitHub](https://github.com/Projekt-Ansichtssache/Projekt-Ansichtssache.github.io)
 
 ## Development
 
