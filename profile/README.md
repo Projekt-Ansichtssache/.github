@@ -1,5 +1,3 @@
-![Projekt Ansichtssache](https://raw.githubusercontent.com/Projekt-Ansichtssache/.github/refs/heads/main/assets/banner.png)
-
 # Projekt Ansichtssache
 
 Making the web more accessible.
