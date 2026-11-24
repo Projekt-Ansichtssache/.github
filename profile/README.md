@@ -13,7 +13,7 @@ Projekt Ansichtssache is a student project focused on digital accessibility. Our
 
 ## Development
 
-Developed by students of Gymnasium Oesede.
+Projekt Ansichtssache is developed by students of Gymnasium Oesede.
 
 Source code is available on GitHub.
 
